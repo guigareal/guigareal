@@ -1,7 +1,10 @@
 ### Olá sou o Guilherme Lima!
 
-🖥️ | Estudando Engenharia de Software.
-🌐 | Em busca do primeiro emprego de Desenvolvedor.
+
+- 🖥️ | Estudando Engenharia de Software.
+- 🌐 | Em busca do primeiro emprego de Desenvolvedor. 
+- 
+- 
 
 
 <div align="center">
