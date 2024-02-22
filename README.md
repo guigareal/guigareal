@@ -3,8 +3,8 @@
 
 - 🖥️ | Estudando Engenharia de Software.
 - 🌐 | Em busca do primeiro emprego de Desenvolvedor. 
-- 
-- 
+- 📖 | Full Stack Jr.
+
 
 
 <div align="center">
